@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reversedNumbers", "reversedNumbers\reversedNumbers.csproj", "{B243FE30-4D77-45F8-9198-AEDA3573AC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B243FE30-4D77-45F8-9198-AEDA3573AC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B243FE30-4D77-45F8-9198-AEDA3573AC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B243FE30-4D77-45F8-9198-AEDA3573AC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B243FE30-4D77-45F8-9198-AEDA3573AC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C695B7D-ADEE-43EF-BE16-68937AA2BE45}
+	EndGlobalSection
+EndGlobal
